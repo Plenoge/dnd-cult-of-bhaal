@@ -61,12 +61,14 @@ Fishing village with nothing else going on but homes, an inn, and a port.
 
 # Ghena
 ## Description
-On fire when we arrived. Basic village with no magic or money.
+On fire when we arrived. Basic village with no magic or money. We helped clean it up and found Lionel. He directed us to the attacking Gnoll encampment. We cleared 
 
 ## Characters
 * Lionel
 	+ Soldier buddy of Mathias who's needed in Zaranthia
-
+	+ Directed us to Gnell who may have lost a locket
+* Gnell
+	+ Mentioned she lost a locket.
 ## Quests
 * Gnoll Encampment
 
